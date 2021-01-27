@@ -60,7 +60,7 @@ Your goal today will be to manipulate the data using array methods and callbacks
 
 Find the file `index.js` and complete the tasks until all of your tests pass.
 
-You may want to use the [World Cup summary data](https://www.foxsports.com/soccer/fifa-world-cup/history) on Fox Sports to check your math as you go.
+You may want to use the [World Cup summary data](  ) on Fox Sports to check your math as you go.
 
 ### Task 3: Stretch Goals
 
